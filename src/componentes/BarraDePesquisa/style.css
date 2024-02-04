@@ -1,0 +1,15 @@
+
+.barra__nav {
+  width: 100%;
+  color: var(--cinza-claro);
+  height: 49px;
+  font-family: var(--fonte);
+  font-size: 22px;
+  background: var(--cinza-escuro) url('./assets/search.svg') no-repeat 32px;
+  /* background-size: contain; ou outra propriedade de tamanho desejada */
+  border: none;
+  padding: .5em 1em .5em 4em;
+  border-radius: 4px;
+  
+}
+
